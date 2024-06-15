@@ -1,0 +1,6 @@
+
+
+
+
+
+direnv hook bash >> ~/.bashrc       // to hook up the key
